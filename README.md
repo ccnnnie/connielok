@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-📚 I’m currently a student in the Grace Hopper Program at Fullstack Academy.
-🌱 I’m currently using [Teachable Machine](https://teachablemachine.withgoogle.com/) by Google and the PERN stack.
-📫 How to reach me: Find me on [Twitter](https://twitter.com/likeclokwork) or check out http://connielok.com/
-😄 Pronouns: she/her/hers
-🦒 My dream vacation would be staying at Giraffe Manor in Kenya.
-🧩 I love puzzles and board games (like Catan! 🐑 ).
-
-
+📚 I’m currently a student in the Grace Hopper Program at Fullstack Academy. <br>
+🤖 I’m currently using [Teachable Machine](https://teachablemachine.withgoogle.com/) by Google and the PERN stack. <br>
+📫 How to reach me: Find me on [Twitter](https://twitter.com/likeclokwork) or check out http://connielok.com/. <br>
+🦒 My dream vacation would be staying at Giraffe Manor in Kenya. <br>
+🧩 I love puzzles and board games (like Catan! 🐑 ). <br>
+😄 Pronouns: she/her/hers <br>
 
 
 <!--
