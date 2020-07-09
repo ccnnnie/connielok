@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+📚 I’m currently a student in the Grace Hopper Program at Fullstack Academy.
+🌱 I’m currently using [Teachable Machine] by Google and the PERN stack.
+📫 How to reach me: Find me on [Twitter] or check out http://connielok.com/
+😄 Pronouns: she/her/hers
+🦒 My dream vacation would be staying at Giraffe Manor in Kenya.
+🧩 I love puzzles and board games (like Catan! 🐑 ).
+
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
+[Twitter](https://twitter.com/likeclokwork)
+
 <!--
 **connielok/connielok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
