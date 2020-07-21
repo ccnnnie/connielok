@@ -2,9 +2,9 @@
 
 #### My name is Connie.
 👩🏻‍💻 I'm currently looking for a role as a Software Engineer.<br>
-📍 New York, NY
-🎓 I attended the Grace Hopper program at Fullstack Academy.
-🔌 Prior to software engineering, I was an electrical engineer in the building design and construction industry.
+📍 New York, NY<br>
+🎓 I attended the Grace Hopper program at Fullstack Academy.<br>
+🔌 Prior to software engineering, I was an electrical engineer in the building design and construction industry.<br>
 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connielok/) or check out my [website portfolio](https://www.connielok.com). <br>
 
 
