@@ -5,7 +5,7 @@
 🔌 Prior to software engineering, I was an electrical engineer in the building design and construction industry.<br>
 
 
-# 📫 How to reach me
+## 📫 How to reach me
 - Connect with me on [Linkedin](https://www.linkedin.com/in/connielok/).<br>
 - Check out my [website](https://www.connielok.com).<br>
 - DM me on [Twitter](https://twitter.com/likeclokwork).
