@@ -1,9 +1,9 @@
 # Hi there, I'm Connie🐘
-👩🏻‍💻 Full Stack Software Engineer.<br>
+👩🏻‍💻 Full Stack Software Engineer<br>
 📍 New York, NY<br>
-🎓 I attended the Grace Hopper program at Fullstack Academy.<br>
-🔌 Prior to software engineering, I was an electrical engineer in the building design and construction industry.<br>
-
+🎓 Grace Hopper at Fullstack Academy alum<br>
+🔌 Electrical Engineering, CCNY<br>
+🍟 Snack Queen
 
 <!--
 **connielok/connielok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
