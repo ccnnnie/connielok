@@ -1,8 +1,6 @@
 # Hi there, I'm Connie🐘
 👩🏻‍💻 Full Stack Software Engineer<br>
 📍 New York, NY<br>
-🎓 Grace Hopper at Fullstack Academy alum<br>
-🔌 Electrical Engineering, CCNY<br>
 🍟 Snack Queen
 
 <!--
